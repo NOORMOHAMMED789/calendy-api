@@ -16,5 +16,5 @@ const port = 3200;
 
 // Start the server
 server.listen(port, () => {
-  console.log(`Node.js HTTP server is running on port ${port}`);
+  console.log(`Node.js HTTPs server is running on port ${port}`);
 });
